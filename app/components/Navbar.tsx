@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from '../../public/Asset 22@4x.png'
+import logo from '../../public/Images/logo.png'
 import { FaHome } from 'react-icons/fa';
 
 export default function Navbar() {
