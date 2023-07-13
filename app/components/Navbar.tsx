@@ -10,7 +10,7 @@ export default function Navbar() {
             <div className='prose prose-xl mx-auto flex flex-row items-center'>
                 <div className='prose prose-xl mx-auto'>
                     <Link rel="stylesheet" href="/" className='grid place-content-center mb-2 md:mb-0'>
-                        <Image src={logo} alt="Vegan Monkey" width={150} />
+                        <Image src={logo} alt="Vegan Monkey" width={150} height={150}/>
                     </Link>
                 </div>
                 <div className='flex flex-row justify-center sm:justify-evenly align-middle gap-4'>
